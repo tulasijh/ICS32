@@ -1,1 +1,1 @@
-# ICS32 Programming with Software Libaries
+# ICS32: Programming with Software Libraries
